@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PCOS Prediction Model - Unified Pipeline
 
 This repository contains a unified machine learning pipeline designed to analyze clinical patient data and predict **Polycystic Ovary Syndrome (PCOS)**. It brings together data preprocessing, exploratory analysis, feature selection techniques, balancing, hyperparameter tuning, and advanced ensembles (such as XGBoost, CatBoost, and AdaBoost) in a sequential, clean, and robust workflow.
@@ -60,3 +61,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn xgboos
 1. Download the repository and place the clinical dataset `PCOS_data.csv` in the root folder.
 2. Open the main pipeline file `PCOS_Prediction_Model.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 3. Run the cells sequentially to perform the data analysis and train the prediction models.
+=======
+# PCOS-Prediction-
+Predictive PCOS Model
+>>>>>>> 31569b952269f524d348cd5edfffdcc1ce9be097
